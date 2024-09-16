@@ -7,5 +7,3 @@ Dataset - https://www.kaggle.com/competitions/arc-prize-2024/data
 
 Public Score : 0.00 - https://www.kaggle.com/code/barirahzainal/my-project-arc-prize-2024-subs-1
 
-
-# Machine Learning Canvas Lists : 
