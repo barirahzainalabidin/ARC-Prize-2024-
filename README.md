@@ -1,4 +1,4 @@
-# ARC-Prize-2024-
+# ARC-Prize-2024
 
 Dataset - https://www.kaggle.com/competitions/arc-prize-2024/data
 
